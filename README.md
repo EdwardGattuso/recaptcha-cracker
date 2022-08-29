@@ -1,2 +1,2 @@
 # recaptcha-cracker
-A crawler program to automatically crack the challenges of Google's reCAPTCHA.
+A crawler that can crack the Google's reCAPTCHA.
